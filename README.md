@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Armanfadaei
-- 👀 I’m interested in backend developing
-- 🌱 I’m currently learning algorithmes
+- 👀 I’m interested in frontend developing
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me armanfadaiirad@gmail.com
 
